@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "工业通风与除尘_空气中有害气体浓度测定",
+"productVersion": "0.1",
+"dataUrl": "Build.data.unityweb",
+"asmCodeUrl": "Build.asm.code.unityweb",
+"asmMemoryUrl": "Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.7f1"
+}
